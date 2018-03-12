@@ -71,6 +71,10 @@ footer {
 
 }
 
+li{
+	padding-left: 3%;
+}
+
 @media (max-width: 600px) {
 	header{
 		width: 60%;
